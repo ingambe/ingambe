@@ -1,11 +1,11 @@
 ### Hi there, I'm Pierre Tassel 👋
 
-- 🔭 I’m currently working at the [Univeristy Klagenfurt](https://www.aau.at/team/tassel-pierre-paul-alain/), Austria 🇦🇹
-- 🌱 I’m currently learning Reinforcement Learning/Deep Learning
-- 👯 I’m looking to collaborate on Reinforcement Learning applied to Combinatorial Optimization problem.
+- 🔭 I’m currently working at the [Prewave](https://prewave.com), Austria 🇦🇹
+- 🌱 Working and learning about LLM/NLP.
+- 👯 During my PhD, my research topic was about Reinforcement Learning applied to Combinatorial Optimization problem. I am still interested in the subject, drop a message if you want to collaborate!
 - 🏠 🇫🇷 Nice-> 🇦🇹 Klagenfurt (current)
 - 📫 How to reach me: [pierre.tassel@outlook.fr](mailto:pierre.tassel@outlook.fr), [@tassel_pierre](https://twitter.com/tassel_pierre)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingambe&layout=compact&langs_count=8)](https://github.com/ingambe)
 
-![Ingambe's GitHub stats](https://readme-stats-5ssv.vercel.app/api?username=ingambe)
+[![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingambe)](https://github.com/anuraghazra/github-readme-stats)
